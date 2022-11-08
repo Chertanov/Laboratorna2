@@ -11,8 +11,8 @@ p > a:visited, p > a:link{
     color:black;
     font-size: larger;
 }
-p > a:visited:active, p > a:visited:active{
-    color:blue;
+p > a:active{
+    color:greenyellow;
     font-size: larger;
 }
 .notimportant{
